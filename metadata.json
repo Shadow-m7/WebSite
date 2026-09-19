@@ -1,0 +1,8 @@
+{
+  "name": "Remix All India Counselling \u0026 DRCC Bihar Portal",
+  "description": "All India Admission Counselling portal featuring college details, Bihar Student Credit Card (DRCC) loan scheme, community post board, and direct admission helpline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
